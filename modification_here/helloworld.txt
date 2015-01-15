@@ -7,6 +7,10 @@ asdf
 
 one more line
 
+<<<<<<< HEAD
 a second line
 
 a third line
+=======
+a fourth line
+>>>>>>> FETCH_HEAD
